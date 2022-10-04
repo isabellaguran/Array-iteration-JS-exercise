@@ -26,4 +26,4 @@ let sum =0
   sum += nums[i]
 }
             
- 
+  console.log(sum / nums.length)
